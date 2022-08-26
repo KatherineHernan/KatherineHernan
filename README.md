@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KatherineHernan
 - 👀 I’m interested in ...learning
 - 🌱 I’m currently learning ...anything...
-- 💞️ I’m looking to collaborate on xamarin projects, im still learning tho
 - 📫 How to reach me ...
 
 <!---
